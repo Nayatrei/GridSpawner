@@ -1,5 +1,5 @@
 # GridSpawnerGenerator
-Unity Tool: Generate Prefab from editor on a Gridbase
+Unity Tool: Generate Scene from Prefab using modular prefabs and create a room-like structure 
 ![image](https://github.com/Nayatrei/GridSpawner/assets/36463159/85b56a75-ffb9-42eb-96a4-bbd57cf3e713)
 
 
